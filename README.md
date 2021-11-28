@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Atlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASproson)](https://github.com/ASproson/github-readme-stats)
-
-[![ASproson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ASproson)](https://github.com/ASproson/github-readme-stats)
+![Atlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlas&show_icons=true&theme=onedark)
 
 
 
