@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Atlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASproson&show_icons=true&theme=cobalt)
+![Atlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASproson&show_icons=true&theme=github_dark)
 
 
 
