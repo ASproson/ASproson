@@ -2,7 +2,7 @@
 
 [![Atlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASproson)](https://github.com/ASproson/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASproson)](https://github.com/ASproson/github-readme-stats)
+[![ASproson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ASproson)](https://github.com/ASproson/github-readme-stats)
 
 
 
