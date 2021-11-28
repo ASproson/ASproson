@@ -1,20 +1,13 @@
-### Hi there 👋
+### Hi there
+
+My name is Atlas and my passion is creating great products using technology. I love solving problems, whether they be technical or business related - I'm your developer! 🚀
+
+I have worked for the British government and several other companies as an engineer for over 7 years, so I've been able to do a little bit of everything! Historically my primary focus has been data engineering, but I have since made the switch to become a software developer.
+
+My primary tech stack is: JavaScript, Node.js, React, Jest, Express, and SQL
+
+My secondary tech stack is: Python, Seaborn, and PowerBI
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/asproson/)
 
 ![Atlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASproson&show_icons=true&theme=github_dark)
-
-
-
-<!--
-**ASproson/ASproson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
