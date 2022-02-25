@@ -2,11 +2,9 @@
 
 My name is Atlas and my passion is creating great products using technology. I love solving problems, whether they be technical or business related - I'm your developer! 🚀
 
-I have worked for the British government and several other companies as an engineer for over 7 years, so I've been able to do a little bit of everything! Historically my primary focus has been data engineering, but I have since made the switch to become a software developer.
+I have worked for the British government and several other companies as an engineer for over 7 years, so I've been able to do a little bit of everything! 
 
-My primary tech stack is: JavaScript, Node.js, React, Jest, Express, and SQL
-
-My secondary tech stack is: Python, Seaborn, and PowerBI
+My primary tech stack is: JavaScript, Node.js, Python, React, Jest, Express, and SQL
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/asproson/)
 
