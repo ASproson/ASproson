@@ -34,5 +34,3 @@ My primary tech stack is: JavaScript, TypeScript, React, Node.js, Cypress, Jest,
 <br></br>
 
 
-
-![Atlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASproson&show_icons=true&theme=github_dark)
