@@ -5,7 +5,7 @@ My passion is creating great products using technology. I love solving problems,
 I have over 8 years experience and have worked for the [British government](https://www.gov.uk/), [Rolls-Royce Aerospace](https://www.rolls-royce.com/), [AstraZeneca US](https://www.astrazeneca-us.com/), and [SquaredUp](https://squaredup.com/). You can find me on [LinkedIn](https://www.linkedin.com/in/asproson/)
 
 
-My primary tech stack is: JavaScript, TypeScript, React, Node.js, Cypress, Jest, Express, and SQL
+My primary tech stack is: JavaScript, TypeScript, Python, Go, React, and Node.js
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" style="max-width: 100%;">
 
